@@ -1,3 +1,6 @@
+# Test These Katas python coding exercise.
+__author__ = "Chris Warren with help from Cheria Artis"
+
 def add(x, y):
     """Return the result of adding x to y."""
     return x + y
